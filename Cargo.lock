@@ -3,9 +3,9 @@
 version = 3
 
 [[package]]
-name = "bobafeed"
+name = "activitypub"
 version = "0.1.0"
 
 [[package]]
-name = "bobapub"
+name = "bobafeed"
 version = "0.1.0"

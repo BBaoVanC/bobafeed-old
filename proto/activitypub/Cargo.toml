@@ -1,5 +1,5 @@
 [package]
-name = "bobapub"
+name = "activitypub"
 version.workspace = true
 authors.workspace = true
 edition.workspace = true

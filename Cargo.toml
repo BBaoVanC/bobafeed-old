@@ -2,7 +2,7 @@
 default-members = ["bobafeed"]
 members = [
     "bobafeed",
-    "bobapub", # activitypub
+    "proto/activitypub",
 ]
 
 [workspace.package]
